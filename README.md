@@ -1,10 +1,6 @@
 # scRNA-seq-workshop2020
 Introduction to Single-Cell Analysis
 
-# Workshop2020
-RSG Turkey Student Symposium 2020 - Workshop Session
-
-
 ## General info
 
 **Date:** 19-20 December 2020
